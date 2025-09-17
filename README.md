@@ -41,9 +41,7 @@ The dataset contains retail sales transactions with the following fields:
 ---
 
 ## 📷 Dashboard Preview  
-<p align="center">
-  <img src="" alt="BlinkIt Dashboard Preview" width="700"/>
-</p>
+![image alt](https://github.com/aditipatel89/Sales_Analytics/blob/181dfeec7be989d70f73ebfc6305884c4e99ed6e/SalesData_screenshot.png)
 
 ---
 
